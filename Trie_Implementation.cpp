@@ -14,6 +14,7 @@ public:
       children[i] = NULL;
     }
     isTerminal = false;
+    // new commit after creating branch about
   }
 };
 class Trie
